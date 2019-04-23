@@ -1,0 +1,27 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "nextjs project",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmdroh/nextjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmdroh/nextjs/issues"
+  },
+  "homepage": "https://github.com/hmdroh/nextjs#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
